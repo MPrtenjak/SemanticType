@@ -14,3 +14,6 @@ packages/
 # VUE/NUXT
 .nuxt
 node_modules/
+
+# Nuget
+SemanticType*.nupkg
